@@ -16,3 +16,7 @@ rye sync
 ```bash
 sh run.sh
 ```
+
+# Sample Music
+魔王魂 様より [ソ.mp3](https://maou.audio/se_inst_piano2_5so/)
+
